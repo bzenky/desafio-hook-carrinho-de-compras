@@ -70,9 +70,9 @@ export function CartProvider({ children }: CartProviderProps): JSX.Element {
 
   const removeProduct = (productId: number) => {
     try {
-      TODO
+      // TODO
     } catch {
-      TODO
+      // TODO
     }
   };
 
@@ -81,9 +81,9 @@ export function CartProvider({ children }: CartProviderProps): JSX.Element {
     amount,
   }: UpdateProductAmount) => {
     try {
-      TODO
+      // TODO
     } catch {
-      TODO
+      // TODO
     }
   };
 
